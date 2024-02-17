@@ -1,1 +1,1 @@
-"# JeneticsExerciseGradle" 
+# JeneticsExerciseGradle

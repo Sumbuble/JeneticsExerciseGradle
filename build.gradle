@@ -1,0 +1,14 @@
+plugins {
+    id 'java'
+}
+
+group 'org.jeneticsexercise'
+version '1.0-SNAPSHOT'
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    implementation 'io.jenetics:jenetics:7.2.0'
+}

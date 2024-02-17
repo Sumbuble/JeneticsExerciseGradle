@@ -4,23 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="18495e9e-6e65-45b2-a85e-f4617dab8774" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Examples/Binary.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Examples/BinaryCodec.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Examples/BinaryLambda.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/RealFunction.java" afterDir="false" />
-    </list>
+    <list default="true" id="18495e9e-6e65-45b2-a85e-f4617dab8774" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -209,7 +193,7 @@
       <workItem from="1708179951654" duration="340000" />
       <workItem from="1708180315689" duration="177000" />
       <workItem from="1708180506307" duration="1987000" />
-      <workItem from="1708183079063" duration="8000" />
+      <workItem from="1708183079063" duration="630000" />
     </task>
     <servers />
   </component>

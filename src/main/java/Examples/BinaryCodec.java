@@ -1,4 +1,4 @@
-package Examples;
+package FAFO;
 
 import io.jenetics.*;
 import io.jenetics.engine.Codec;

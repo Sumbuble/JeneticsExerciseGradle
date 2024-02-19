@@ -6,6 +6,9 @@
   <component name="ChangeListManager">
     <list default="true" id="18495e9e-6e65-45b2-a85e-f4617dab8774" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Examples/Binary.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Examples/Binary.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Examples/BinaryCodec.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Examples/BinaryCodec.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Examples/BinaryLambda.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Examples/BinaryLambda.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -83,9 +86,22 @@
       <command value="gradlew :run" />
     </option>
   </component>
-  <component name="RunManager" selected="Application.Binary">
+  <component name="RunManager" selected="Application.BinaryLambda">
     <configuration name="Binary" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Examples.Binary" />
+      <module name="JeneticsExercise.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Examples.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BinaryCodec" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Examples.BinaryCodec" />
       <module name="JeneticsExercise.main" />
       <extension name="coverage">
         <pattern>
@@ -152,34 +168,13 @@
       <DebugAllEnabled>false</DebugAllEnabled>
       <method v="2" />
     </configuration>
-    <configuration name="JeneticsExercise [compileJava]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
-      <ExternalSystemSettings>
-        <option name="executionName" />
-        <option name="externalProjectPath" value="$PROJECT_DIR$" />
-        <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" />
-        <option name="taskDescriptions">
-          <list />
-        </option>
-        <option name="taskNames">
-          <list>
-            <option value="compileJava" />
-          </list>
-        </option>
-        <option name="vmOptions" />
-      </ExternalSystemSettings>
-      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
-      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
-      <DebugAllEnabled>false</DebugAllEnabled>
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BinaryLambda" />
+        <item itemvalue="Application.BinaryCodec" />
         <item itemvalue="Application.Binary" />
         <item itemvalue="Gradle.JeneticsExercise [:run]" />
         <item itemvalue="Gradle.JeneticsExercise [build]" />
-        <item itemvalue="Gradle.JeneticsExercise [compileJava]" />
-        <item itemvalue="Application.BinaryLambda" />
       </list>
     </recent_temporary>
   </component>
@@ -196,7 +191,7 @@
       <workItem from="1708180315689" duration="177000" />
       <workItem from="1708180506307" duration="1987000" />
       <workItem from="1708183079063" duration="650000" />
-      <workItem from="1708349285051" duration="1376000" />
+      <workItem from="1708349285051" duration="1436000" />
     </task>
     <servers />
   </component>
